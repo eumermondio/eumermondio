@@ -1,16 +1,17 @@
-### Hi there 👋
+### System.out.println("Hola mundo!!");
 
-<!--
-**eumermondio/eumermondio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me presento:
 
-Here are some ideas to get you started:
+Soy técnico en sistemas microinformáticos y redes, estudio desarrollo web <br>
+y soy un aficionado a la programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente deseo ser un desarrollador web
+- 🌱 Aprendiendo bases de datos y entornos de desarrollo
+- 🎉 Mis mayores logros son crear un bot de discord y desarrollar un servidor <br>
+- de GTA V roleplay
+
+
+- 📫 Contacto: cpachecoarjona@gmail.com
+
+- ⚡ Fun fact: hace 2 años empecé a interesarme por la seguridad informática
+
