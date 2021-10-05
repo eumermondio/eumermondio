@@ -6,7 +6,7 @@ Soy técnico en sistemas microinformáticos y redes, estudio desarrollo web
 y soy un aficionado a la programación.
 
 - 🔭 Actualmente deseo ser un desarrollador web
-- 🌱 Aprendiendo bases de datos y entornos de desarrollo
+- 🌱 Aprendiendo bases de datos y Java
 - 🎉 Mis mayores logros son crear un bot de discord y desarrollar un servidor
 - de GTA V roleplay
 
