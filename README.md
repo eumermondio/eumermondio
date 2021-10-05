@@ -2,12 +2,12 @@
 
 Me presento:
 
-Soy técnico en sistemas microinformáticos y redes, estudio desarrollo web <br>
+Soy técnico en sistemas microinformáticos y redes, estudio desarrollo web
 y soy un aficionado a la programación.
 
 - 🔭 Actualmente deseo ser un desarrollador web
 - 🌱 Aprendiendo bases de datos y entornos de desarrollo
-- 🎉 Mis mayores logros son crear un bot de discord y desarrollar un servidor <br>
+- 🎉 Mis mayores logros son crear un bot de discord y desarrollar un servidor
 - de GTA V roleplay
 
 
