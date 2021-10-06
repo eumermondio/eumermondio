@@ -1,4 +1,4 @@
-### System.out.println("Hola mundo!!"); ![imagen](https://user-images.githubusercontent.com/73362204/136158805-0aef1ce5-0ae9-45ca-a95f-5a0cd998c6bb.png)
+### System.out.println("Hola mundo!!");
 
 
 Me presento:
