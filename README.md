@@ -3,7 +3,7 @@
 
 
 
-#Me presento:
+Me presento:
 
 Soy técnico en sistemas microinformáticos y redes, estudio desarrollo web
 y soy un aficionado a la programación.
