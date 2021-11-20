@@ -1,7 +1,5 @@
 ### System.out.println("Hola mundo!!");
 
-![d](https://github.com/eumermondio/eumermondio.github.io/blob/master/_posts/onda.jpg)
-
 Me presento:
 
 Soy técnico en sistemas microinformáticos y redes, estudio desarrollo web
