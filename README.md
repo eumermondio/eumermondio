@@ -12,5 +12,5 @@ y soy un aficionado a la programación.
 
 - 📫 Contacto: cpachecoarjona@gmail.com
 
-- ⚡ Fun fact: hace 2 años empecé a interesarme por la seguridad informática
+- ⚡ Fun fact: Hace 2 años empecé a interesarme por la seguridad informática y la programación
 
