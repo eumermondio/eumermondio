@@ -1,4 +1,4 @@
-# System.out.println("Hola mundo!!");
+# console.log("Hola mundo!!");
 
 Me presento:
 
