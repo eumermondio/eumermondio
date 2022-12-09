@@ -10,7 +10,3 @@
 - 📫 Contacto **cpachecoarjona@gmail.com**
 
 - ⚡ Fun fact **Hace 4 años empecé a interesarme por la seguridad informática y la programación**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
