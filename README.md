@@ -13,5 +13,3 @@ y soy un aficionado a la programación.
 - 📫 Contacto: cpachecoarjona@gmail.com
 
 - ⚡ Fun fact: Hace 2 años empecé a interesarme por la seguridad informática y la programación
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
