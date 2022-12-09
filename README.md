@@ -2,7 +2,7 @@
 <h1 align="center">Hola! 👋, Soy Cristian Pacheco</h1>
 <h3 align="center">Me presento: Soy técnico en sistemas microinformáticos y redes, estudio desarrollo web y soy un aficionado a la programación.</h3>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="eumermondio"/>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="eumermondio" width="400" />
 
 
 - 🔭 Actualmente **deseo ser un desarrollador web**
