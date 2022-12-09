@@ -1,15 +1,16 @@
-# console.log("Hola mundo!!");
+<h1 align="center">Hola! 👋, Soy Cristian Pacheco</h1>
+<h3 align="center">Me presento: Soy técnico en sistemas microinformáticos y redes, estudio desarrollo web y soy un aficionado a la programación.</h3>
 
-Me presento:
+- 🔭 Actualmente **deseo ser un desarrollador web**
 
-Soy técnico en sistemas microinformáticos y redes, estudio desarrollo web
-y soy un aficionado a la programación.
+- 🌱 Aprendiendo **Bases de datos, springboot, laravel, angular, sass, javascript**
 
-- 🔭 Actualmente deseo ser un desarrollador web
-- 🌱 Aprendiendo bases de datos y Java
-- 🎉 Mis mayores logros son crear un bot de discord y desarrollar un servidor de GTA V roleplay
+- 🎉 Mis mayores logros son **crear un bot de discord y desarrollar un servidor de GTA V roleplay**
 
+- 📫 Contacto **cpachecoarjona@gmail.com**
 
-- 📫 Contacto: cpachecoarjona@gmail.com
+- ⚡ Fun fact **Hace 4 años empecé a interesarme por la seguridad informática y la programación**
 
-- ⚡ Fun fact: Hace 2 años empecé a interesarme por la seguridad informática y la programación
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
