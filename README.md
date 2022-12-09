@@ -1,4 +1,4 @@
-[![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development-1030x337.png)](https://eumermondio.github.io)
+[![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://eumermondio.github.io)
 <h1 align="center">Hola! 👋, Soy Cristian Pacheco</h1>
 <h3 align="center">Me presento: Soy técnico en sistemas microinformáticos y redes, estudio desarrollo web y soy un aficionado a la programación.</h3>
 
