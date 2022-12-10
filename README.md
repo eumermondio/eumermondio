@@ -2,8 +2,7 @@
 <h1 align="center">Hola! 👋, Soy Cristian Pacheco</h1>
 <h3 align="center">Me presento: Soy técnico en sistemas microinformáticos y redes, estudio desarrollo web y soy un aficionado a la programación.</h3>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="eumermondio" width="400" />
-
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="eumermondio" width="400" height="275" />
 
 - 🔭 Actualmente **deseo ser un desarrollador web**
 
@@ -16,7 +15,6 @@
 - ⚡ Fun fact **Hace 4 años empecé a interesarme por la seguridad informática y la programación**
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eumermondio&label=Visitas&color=0e75b6&style=flat" alt="eumermondio" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eumermondio" alt="eumermondio" /></a> </p>
