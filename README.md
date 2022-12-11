@@ -1,6 +1,6 @@
 [![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://eumermondio.github.io)
 <h1 align="center">Hello world! 👋, I'm Cristian Pacheco</h1>
-<h3 align="center">This is me: I'm a young Spanish guy who loves developing my own ideas😍, also I'm an IT & networking technician, nowadays I study web development at Lucena(Córdoba, Spain). I often code when I'm bored🥱</h3>
+<h3 align="center">This is me: I'm a young Spanish guy who loves developing my own ideas😍, also I'm an IT and networking technician, nowadays I study web development at Lucena(Córdoba, Spain). I often code when I'm bored🥱</h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="eumermondio" width="400" height="275" />
 
