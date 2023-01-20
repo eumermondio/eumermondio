@@ -8,7 +8,7 @@
 
 - 🌱 Aprendiendo **Bases de datos, springboot, laravel, angular, sass, javascript**
 
-- 🎉 Mis mayores logros son **crear un bot de discord y desarrollar un servidor de GTA V roleplay**
+- 🎉 Mis mayores logros son **crear varios bots de discord y desarrollar un servidor de GTA V roleplay**
 
 - 📫 Contacto **cpachecoarjona@gmail.com**
 
