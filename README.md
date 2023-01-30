@@ -6,13 +6,13 @@
 
 - 🔭 I **want to be web developer**
 
-- 🌱 Aprendiendo **Bases de datos, springboot, laravel, angular, sass, javascript**
+- 🌱 Learning **RESTful services, springboot, laravel, angular, sass, javascript**
 
-- 🎉 Mis mayores logros son **crear varios bots de discord y desarrollar un servidor de GTA V roleplay**
+- 🎉 My greatest achievements are **creating several discord bots and develop a GTA V roleplay server**
 
-- 📫 Contacto **cpachecoarjona@gmail.com**
+- 📫 Reach me on **cpachecoarjona@gmail.com**
 
-- ⚡ Fun fact **Hace 4 años empecé a interesarme por la seguridad informática y la programación**
+- ⚡ Fun fact **I've been interested in programming and information security since 2019**
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eumermondio&label=Visitas&color=0e75b6&style=flat" alt="eumermondio" /> </p>
